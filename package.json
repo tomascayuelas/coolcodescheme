@@ -1,0 +1,20 @@
+{
+  "schema_version": "0.1",
+  "packages": [
+    {
+      "name": "Cool Code Scheme",
+      "description": "A cool darks colours scheme",
+      "author": "tomascayuelas",
+      "homepage": "https://github.com/tomascayuelas/coolcodescheme",
+      "last_modified": "2012-10-19 13:09:00",
+      "platforms": {
+        "*": [
+          {
+            "version": "0.1",
+            "url": "https://raw.github.com/tomascayuelas/coolcodescheme/master/packages.json"
+          }
+        ]
+      }
+    }
+  ]
+}
