@@ -1,5 +1,5 @@
 {
-  "schema_version": "0.1",
+  "schema_version": "1.2",
   "packages": [
     {
       "name": "Cool Code Scheme",
@@ -11,7 +11,7 @@
         "*": [
           {
             "version": "0.1",
-            "url": "https://raw.github.com/tomascayuelas/coolcodescheme/master/packages.json"
+            "url": "https://nodeload.github.com/tomascayuelas/coolcodescheme/zipball/master"
           }
         ]
       }
