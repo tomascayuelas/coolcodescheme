@@ -1,4 +1,4 @@
 Cool Code Scheme
 ===========
 -----------
-A cool darks colours scheme
+A cool dark colour scheme
